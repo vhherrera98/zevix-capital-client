@@ -1,0 +1,13 @@
+{
+    "a-file-icon-vscode.folderColor": "#292d31",
+    "a-file-icon-vscode.folderTheme": "none",
+    "a-file-icon-vscode.activeIconPacks": [
+        "angular",
+        "angular2",
+        "ngrx",
+        "nest",
+        "next",
+        "react",
+        "redux"
+    ]
+}

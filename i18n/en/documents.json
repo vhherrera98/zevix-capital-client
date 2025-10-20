@@ -1,0 +1,18 @@
+{
+  "page_documents_personal": "Documents (Personal)",
+  "form_document_up": "Upload",
+  "form_document_dni": "DNI/Driver License",
+  "form_document_passport": "Passport",
+  "form_documents_table_nombre": "Document Name",
+  "form_document_title": "Upload Documents",
+  "form_document_subtitle": "By uploading new documents, your account will be under review until it is reactivated so you can continue interacting with it.",
+  "form_document_hint": "Once the files are uploaded, our staff will verify if everything is correct and no documents are missing. Otherwise, you will be notified via a notification and/or email.",
+  "form_document_upload_button": "Upload Document",
+  "form_document_download": "Download Already Uploaded Document",
+  "form_document_input": "Drag and drop your file or click to select it",
+  "form_document_button": "Upload Document",
+  "En Revisión": "Under Review",
+  "Aprobado": "Approved",
+  "Pendiente": "Pending",
+  "Rechazado": "Dismissed"
+}

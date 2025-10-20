@@ -1,0 +1,15 @@
+{
+ "accounts_banks_title": "Cuentas de Banco",
+ "accounts_banks_button": "Registrar Cuenta",
+ "form_bank_title": "Agregar Cuenta Bancaria",
+ "form_bank_subtitle": "Aquí puedes agregar la cuenta bancaria para depósitos.",
+ "form_bank_name": "Nombre del Banco",
+ "form_bank_account_number": "Número de Cuenta",
+ "form_bank_account_holder_name": "Nombre del Titular",
+ "form_bank_account_type": "Tipo de Cuenta",
+ "form_bank_account_currency_type": "Tipo de Moneda",
+ "form_bank_submit": "Agregar Cuenta",
+ "form_bank_options": "Opciones",
+ "form_bank_options_placeholder": "Selecciona una opción",
+ "form_bank_input_placeholder": "Escribe en el campo"
+}

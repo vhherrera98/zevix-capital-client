@@ -1,0 +1,5 @@
+{
+ "validation_email": "Ingrese un correo electrónico válido",
+ "validation_password_regex": "La contraseña debe tener al menos una letra mayúscula, una letra minúscula y un número",
+ "validation_password_min": "La contraseña debe tener mínimo 8 carácteres"
+}

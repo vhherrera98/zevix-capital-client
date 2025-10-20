@@ -1,0 +1,17 @@
+{
+  "npn_title": "Create a new notification",
+  "npn_english": "English",
+  "npn_spanish": "Spanish",
+  "npn_title_input": "Title",
+  "npn_title_placeholder": "Enter the notification title",
+  "npn_description_input": "Description",
+  "npn_description_placeholder": "Enter the notification description",
+  "npn_required": "This field is required",
+  "npn_sent_to": "Send to",
+  "npn_sent_to_button": "Select all",
+  "npn_persons": "Persons",
+  "npn_sent_to_select": "Select people",
+  "npn_sent_to_message": "You need to select at least one person",
+  "npn_submit": "Submit for approval",
+  "search": "Search.."
+}

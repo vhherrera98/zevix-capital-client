@@ -1,0 +1,8 @@
+{
+  "signin_title": "Sign in to your account",
+  "signin_description": "Enter your email below to sign in to your account",
+  "signin_email": "Email",
+  "signin_password": "Password",
+  "signin_stay": "Stay signed in",
+  "signin_submit": "Sign in"
+}

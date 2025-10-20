@@ -1,0 +1,8 @@
+{
+ "invalid_credentials": "Invalid Credentials",
+ "unexpected_error": "Unexpected Error",
+  "dialog_title": "Are you sure?",
+  "dialog_description": "Once you press continue, the record '{{name}}' will be permanently deleted and cannot be recovered.",
+  "dialog_cancel": "Cancel",
+  "dialog_continue": "Continue"
+}

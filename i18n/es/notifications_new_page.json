@@ -1,0 +1,17 @@
+{
+ "npn_title": "Crear una nueva notificación",
+ "npn_english": "Ingles",
+ "npn_spanish": "Español",
+ "npn_title_input": "Título",
+ "npn_title_placeholder": "Ingrese el nombre de la notificación",
+ "npn_description_input": "Descripción",
+ "npn_description_placeholder": "Ingrese la descripción de la notificación",
+ "npn_required": "Es requerido",
+ "npn_sent_to": "Enviar a",
+ "npn_sent_to_button": "Seleccionar todo",
+ "npn_persons": "Personas",
+ "npn_sent_to_select": "Seleccione personas",
+ "npn_sent_to_message": "Necesita seleccionar al menos a una persona",
+ "npn_submit": "Enviar para aprobación",
+ "search": "Buscar.."
+}

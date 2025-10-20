@@ -1,0 +1,23 @@
+{
+  "doc_beneficiario_title": "Documents (Beneficiaries)",
+  "doc_beneficiario_add": "Add Beneficiary",
+  "doc_beneficiario_firstname": "First Name(s)",
+  "doc_beneficiario_lastname": "Last Name(s)",
+  "doc_beneficiario_gender": "Gender",
+  "doc_beneficiario_birthdate": "Date of Birth",
+  "doc_beneficiario_dni_license": "ID / Driver's License",
+  "doc_beneficiario_passport": "Passport",
+  "doc_beneficiario_form_title": "Add a New Beneficiary",
+  "doc_beneficiario_form_description": "To add a new beneficiary, complete the required fields with the appropriate information. Make sure to provide accurate and up-to-date data to ensure proper benefit management.",
+  "doc_beneficiario_form_firstname_label": "First Name(s)",
+  "doc_beneficiario_form_firstname_placeholder": "Enter the beneficiary's first name",
+  "doc_beneficiario_form_lastname_label": "Last Name(s)",
+  "doc_beneficiario_form_lastname_placeholder": "Enter the beneficiary's last name",
+  "doc_beneficiario_form_gender_label": "Gender",
+  "doc_beneficiario_form_gender_placeholder": "Select gender",
+  "doc_beneficiario_form_gender_male": "Male",
+  "doc_beneficiario_form_gender_female": "Female",
+  "doc_beneficiario_form_birthdate_label": "Date of Birth",
+  "doc_beneficiario_form_birthdate_placeholder": "dd/mm/yy",
+  "doc_beneficiario_form_submit": "Register Beneficiary"
+}

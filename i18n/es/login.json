@@ -1,0 +1,8 @@
+{
+  "signin_title": "Inicie sesión en su cuenta",
+  "signin_description": "Ingrese su correo electrónico a continuación para iniciar sesión en su cuenta",
+  "signin_email": "Correo electrónico",
+  "signin_password": "Contraseña",
+  "signin_stay": "Mantener la sesión iniciada",
+  "signin_submit": "Ingresar"
+}

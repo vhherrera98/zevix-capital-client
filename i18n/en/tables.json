@@ -1,0 +1,17 @@
+{
+  "table_filter": "I did a quick search...",
+  "table_view_option": "View",
+  "table_toggle_columns": "Toggle columns",
+  "table_hiden": "Hide",
+  "table_columns_select": "{{from}} of {{to}} row(s) selected.",
+  "table_rows_per_page": "Rows per page",
+  "table_pagination": "Page {{start}} of {{end}}",
+  "table_no_results": "No Results",
+  "bank_account_id": "ID",
+  "bank_account_banco_nombre": "Financial Entity",
+  "bank_account_titular": "Account Holder",
+  "bank_account_numero_cuenta": "Account Number",
+  "bank_account_tipo_cuenta_nombre": "Account Type",
+  "bank_account_moneda_nombre": "Currency Type",
+  "bank_account_created_at": "Creation Date"
+}

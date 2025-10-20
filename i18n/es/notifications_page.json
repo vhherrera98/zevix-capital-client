@@ -1,0 +1,8 @@
+{
+ "np_notifications": "Notificaciones",
+ "np_hint": "Gestione y apruebe notificaciones pendientes",
+ "np_approvals": "Notificaciones Aprobadas",
+ "np_pending": "Aprobaciones pendientes",
+ "np_unapproved": "Notificaciones no aprobadas",
+ "np_no_results": "Sin resultados disponibles"
+}

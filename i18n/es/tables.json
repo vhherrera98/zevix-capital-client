@@ -1,0 +1,17 @@
+{
+  "table_filter": "Realicé una búsqueda rápida...",
+  "table_view_option": "Vista",
+  "table_toggle_columns": "Mostrar u ocultar columnas",
+  "table_hiden": "Ocultar",
+  "table_columns_select": "{{from}} de {{to}} fila(s) seleccionadas.",
+  "table_rows_per_page": "Filas por página",
+  "table_pagination": "Página {{start}} de {{end}}",
+  "table_no_results": "Sin resultados",
+  "bank_account_id": "ID",
+  "bank_account_banco_nombre": "Entidad Financiera",
+  "bank_account_titular": "Titular",
+  "bank_account_numero_cuenta": "Número de Cuenta",
+  "bank_account_tipo_cuenta_nombre": "Tipo de Cuenta",
+  "bank_account_moneda_nombre": "Tipo de Moneda",
+  "bank_account_created_at": "Fecha de Creación"
+}

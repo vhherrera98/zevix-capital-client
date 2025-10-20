@@ -1,0 +1,8 @@
+{
+ "invalid_credentials": "Credenciales invalidas",
+ "unexpected_error": "Error Desconocido",
+ "dialog_title": "¿Estás Seguro?",
+ "dialog_description": "Una vez que oprimas continuar el registro '{{name}}' quedará eliminado de forma permanente y no se podrá recuperar.",
+ "dialog_cancel": "Cancelar",
+ "dialog_continue": "Continuar"
+}

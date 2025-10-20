@@ -1,0 +1,18 @@
+{
+  "required": "This field is required.",
+  "empty": "This field cannot be empty.",
+  "min": "This field must have at least 5 characters.",
+  "min_2": "This field must have at least 2 characters.",
+  "min_3": "This field must have at least 3 characters.",
+  "mail": "The email address is not valid.",
+  "number": "Only numeric values are allowed.",
+  "numbers": "Only numeric values are allowed.",
+  "array_min": "At least one item must be selected.",
+  "date_es": "Invalid date (dd/mm/yyyy)",
+  "input_file_label": "Upload your document",
+  "input_files_label": "Upload your documents",
+  "input_file_placeholder_accept": "Are accepted {{types}}",
+  "input_upload_files": "Uploaded files",
+  "choose_file": "Choose File",
+  "choose_files": "Choose Files"
+}

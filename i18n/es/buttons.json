@@ -1,0 +1,13 @@
+{
+ "btn_logout": "Cerrar Sesión",
+ "btn_approve": "Aprobar",
+ "btn_reject": "Rechazar",
+ "btn_approved": "Aprobado",
+ "btn_rejected": "Rechazado",
+ "btn_new_notification": "Nueva Notificación",
+ "btn_all": "Todos",
+ "btn_pendings": "Pendientes",
+ "btn_approveds": "Aprobadas",
+ "btn_rechazeds": "Rechazadas",
+ "btn_selected": "Seleccione un filtro"
+}

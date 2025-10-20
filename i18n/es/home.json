@@ -1,0 +1,8 @@
+{
+ "home_total": "Ingresos totales (Todos)",
+ "home_totalPersonal": "Ingresos totales (Individual)",
+ "home_recentIncomePersonal": "Ingresos recientes (Personal)",
+ "home_recentIncomeTotal": "Ingresos recientes (Total)",
+ "home_revenues": "Se tienen {{length}} ingresos este mes.",
+ "home_incomes": "Ver más ingresos"
+}

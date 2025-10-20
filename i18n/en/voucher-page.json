@@ -1,0 +1,40 @@
+{
+  "voucher_title": "Completed Deposits",
+  "voucher_add_new": "New Deposit",
+
+  "voucher_table_status": "Status",
+  "voucher_table_transaction_number": "Transaction Number",
+  "voucher_table_created_at": "Creation Date",
+  "voucher_table_amount": "Amount",
+  "voucher_table_currency": "Currency Type",
+
+  "voucher_form_title": "Upload Voucher",
+  "voucher_form_subtitle": "Once you have made the transfer or deposit for your new contribution, you must upload the corresponding voucher. After verification and confirmation, you will be notified.",
+  "voucher_form_hint": "Note: Make sure the voucher or bank statement is legible, especially the transaction number.",
+
+  "voucher_form_currency_label": "Currency",
+  "voucher_form_currency_placeholder": "Select the currency",
+
+  "voucher_form_amount_label": "Amount",
+  "voucher_form_amount_placeholder": "Enter the deposited amount",
+
+  "voucher_form_transaction_label": "Transaction Number",
+  "voucher_form_transaction_placeholder": "Enter the transaction number",
+
+  "voucher_form_upload_button": "Upload Voucher",
+
+  "voucher_solicitud_titulo": "Deposit (Requests)",
+
+  "voucher_solicitud_tabla_estado": "Status",
+  "voucher_solicitud_tabla_recibo": "Receipt",
+  "voucher_solicitud_tabla_persona": "Person",
+  "voucher_solicitud_tabla_numero_transaccion": "Transaction Number",
+  "voucher_solicitud_tabla_monto": "Amount",
+  "voucher_solicitud_tabla_tipo_moneda": "Currency Type",
+  "voucher_solicitud_tabla_fecha_creacion": "Creation Date",
+
+  "voucher_solicitud_form_titulo": "Voucher from {{nombre}}",
+  "voucher_solicitud_form_subtitulo": "Check your bank account statements to verify that the transaction number and amount match the deposit.",
+  "voucher_solicitud_form_submit_aceptar": "Accept Voucher",
+  "voucher_solicitud_form_submit_rechazar": "Reject Voucher"
+}

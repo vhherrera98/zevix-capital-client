@@ -1,0 +1,18 @@
+{
+  "required": "Este campo es requerido.",
+  "empty": "Este campo no puede estar vacío.",
+  "min": "Este campo necesita mínimo 5 caracteres.",
+  "min_3": "Este campo necesita mínimo 3 carácteres.",
+  "min_2": "Este campo necesita mínimo 2 carácteres.",
+  "mail": "El correo electrónico no es válido.",
+  "number": "Solo se acepta valor de tipo número",
+  "numbers": "Solo se acepta valores de tipo número",
+  "array_min": "Se debe seleccionar al menos un elemento",
+  "date_es": "Fecha inválida (dd/mm/yyyy)",
+  "input_file_label": "Sube tu documento",
+  "input_files_label": "Sube tus documentos",
+  "input_file_placeholder_accept": "Se aceptan {{types}}",
+  "input_upload_files": "Archivos subidos",
+  "choose_file": "Elegir Archivo",
+  "choose_files": "Elegir Archivos"
+}

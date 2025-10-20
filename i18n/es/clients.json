@@ -1,0 +1,14 @@
+{
+ "client_page_title": "Todos Los Clientes",
+ "client_page_new": "Registrar Nuevo Cliente",
+ "client_table_fullname": "Nombre Completo",
+ "client_table_mail": "Correo Electrónico",
+ "client_table_createat": "Fecha de Creación",
+ "client_table_status": "Estado",
+ "client_table_actions": "Acciones",
+ "client_table_details": "Ver Detalles Del Cliente",
+ "client_table_documents": "Ver Documentos",
+ "client_table_beneficiaries": "Ver Beneficiarios",
+ "client_form_title": "Registrar Un Nuevo Cliente",
+ "client_form_subtitle": "Una vez creado el cliente, el mismo recibirá un correo electrónico al que fue proporcionado el cual obtendrá una contraseña genérica con el cúal podra ingresar a la plataforma y actualizar sus datos personales."
+}

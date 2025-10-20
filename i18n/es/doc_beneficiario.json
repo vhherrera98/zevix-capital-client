@@ -1,0 +1,23 @@
+{
+  "doc_beneficiario_title": "Documentos (Beneficiarios)",
+  "doc_beneficiario_add": "Agregar beneficiario",
+  "doc_beneficiario_firstname": "Nombre(s)",
+  "doc_beneficiario_lastname": "Apellido(s)",
+  "doc_beneficiario_gender": "Género",
+  "doc_beneficiario_birthdate": "Fecha de nacimiento",
+  "doc_beneficiario_dni_license": "DNI / Licencia de conducir",
+  "doc_beneficiario_passport": "Pasaporte",
+  "doc_beneficiario_form_title": "Agregar un Nuevo Beneficiario",
+  "doc_beneficiario_form_description": "Para agregar un nuevo beneficiario, complete los campos requeridos con la información correspondiente. Asegúrese de proporcionar datos precisos y actualizados para garantizar la correcta gestión de los beneficios.",
+  "doc_beneficiario_form_firstname_label": "Nombre(s)",
+  "doc_beneficiario_form_firstname_placeholder": "Ingresa el nombre del beneficiario",
+  "doc_beneficiario_form_lastname_label": "Apellido(s)",
+  "doc_beneficiario_form_lastname_placeholder": "Ingresa el apellido del beneficiario",
+  "doc_beneficiario_form_gender_label": "Género",
+  "doc_beneficiario_form_gender_placeholder": "Selecciona el género",
+  "doc_beneficiario_form_gender_male": "Masculino",
+  "doc_beneficiario_form_gender_female": "Femenino",
+  "doc_beneficiario_form_birthdate_label": "Fecha de Nacimiento",
+  "doc_beneficiario_form_birthdate_placeholder": "dd/mm/aa",
+  "doc_beneficiario_form_submit": "Registrar Beneficiario"
+}

@@ -1,0 +1,1 @@
+export { default } from "@/app/dashboard/@modal/partners/new/page";

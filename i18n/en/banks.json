@@ -1,0 +1,15 @@
+{
+  "accounts_banks_title": "Bank Accounts",
+  "accounts_banks_button": "Register Account",
+  "form_bank_title": "Add Bank Account",
+  "form_bank_subtitle": "Here you can add the bank account for deposits.",
+  "form_bank_name": "Bank Name",
+  "form_bank_account_number": "Account Number",
+  "form_bank_account_holder_name": "Account Holder Name",
+  "form_bank_account_type": "Account Type",
+  "form_bank_account_currency_type": "Currency Type",
+  "form_bank_submit": "Add Account",
+  "form_bank_options": "Options",
+  "form_bank_options_placeholder": "Select a option",
+  "form_bank_input_placeholder": "Typing the field"
+}

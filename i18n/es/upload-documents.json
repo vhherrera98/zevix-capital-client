@@ -1,0 +1,10 @@
+{
+ "form_numero_identificacion_label": "Número de identificación",
+ "form_numero_identificacion_placeholder": "Ingrese su número de identificación",
+ "form_fecha_emision_label": "Fecha de emisión",
+ "form_fecha_expiracion_label": "Fecha de expiracion",
+ "form_fecha": "dd/mm/aaaa",
+ "form_fecha_emision_mayor_actual": "La fecha de emisión no puede ser mayor a la fecha actual",
+ "form_fecha_expiracion_menor_emision": "La fecha de expiración no puede ser menor a la fecha de emisión",
+ "form_upload_submit": "Agregar documento"
+}

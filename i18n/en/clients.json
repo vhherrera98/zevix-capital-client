@@ -1,0 +1,14 @@
+{
+  "client_page_title": "All Clients",
+  "client_page_new": "Register New Client",
+  "client_table_fullname": "Full Name",
+  "client_table_mail": "Email",
+  "client_table_createat": "Creation Date",
+  "client_table_status": "Status",
+  "client_table_actions": "Actions",
+  "client_table_details": "View Client Details",
+  "client_table_documents": "View Documents",
+  "client_table_beneficiaries": "View Beneficiaries",
+  "client_form_title": "Register a New Client",
+  "client_form_subtitle": "Once the client is created, they will receive an email at the provided address containing a generic password, which they can use to log in to the platform and update their personal information."
+}

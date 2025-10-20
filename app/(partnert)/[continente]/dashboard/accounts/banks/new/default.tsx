@@ -1,0 +1,1 @@
+export { default } from "@/app/dashboard/@modal/accounts/banks/new/page"

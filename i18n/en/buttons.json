@@ -1,0 +1,13 @@
+{
+ "btn_logout": "Log Out",
+ "btn_approve": "Approve",
+ "btn_reject": "Reject",
+ "btn_approved": "Approved",
+ "btn_rejected": "Rejected",
+ "btn_new_notification": "New Notification",
+ "btn_all": "All",
+ "btn_pendings": "Pending",
+ "btn_approveds": "Approved",
+ "btn_rechazeds": "Rejected",
+ "btn_selected": "Select a filter"
+}

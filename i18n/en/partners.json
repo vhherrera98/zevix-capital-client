@@ -1,0 +1,20 @@
+{
+  "partner_page_title": "All Partners",
+  "partner_page_new": "Register New Partner",
+  "partner_table_fullname": "Full Name",
+  "partner_table_mail": "Email",
+  "partner_table_createat": "Creation Date",
+  "partner_table_actions": "Actions",
+  "partner_table_details": "View Partner Details",
+  "partner_table_documents": "View Documents",
+  "partner_table_beneficiaries": "View Beneficiaries",
+  "partner_form_title": "Register a New Partner",
+  "partner_form_subtitle": "Once the partner is created, they will receive an email at the provided address with a generic password to access the platform and update their personal information.",
+  "partner_form_names": "First Name(s)",
+  "partner_form_paternal_surname": "Paternal Surname",
+  "partner_form_maternal_surname": "Maternal Surname",
+  "partner_form_document": "Document",
+  "partner_form_mail": "Email",
+  "partner_form_register": "Register Data",
+  "partner_form_placeholder": "Type in the field"
+}

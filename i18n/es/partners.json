@@ -1,0 +1,20 @@
+{
+ "partner_page_title": "Todos los socios",
+ "partner_page_new": "Registrar Nuevo Socio",
+ "partner_table_fullname": "Nombre Completo",
+ "partner_table_mail": "Correo Electrónico",
+ "partner_table_createat": "Fecha de Creación",
+ "partner_table_actions": "Acciones",
+ "partner_table_details": "Ver Detalles Del Socio",
+ "partner_table_documents": "Ver Documentos",
+ "partner_table_beneficiaries": "Ver Beneficiarios",
+ "partner_form_title": "Registrar Un Nuevo Socio",
+ "partner_form_subtitle": "Una vez creado el socio, el mismo recibira un correo electrónico al que fue proporcionado el cual obtendrá una contraseña genérica con el cúal podra ingresar a la plataforma y actualizar sus datos personales.",
+ "partner_form_names": "Nombre(s)",
+ "partner_form_paternal_surname": "Apellido Paterno",
+ "partner_form_maternal_surname": "Apellido Materno",
+ "partner_form_document": "Documento",
+ "partner_form_mail": "Correo Electrónico",
+ "partner_form_register": "Registrar Los Datos",
+ "partner_form_placeholder": "Escribe en el campo"
+}

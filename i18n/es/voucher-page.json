@@ -1,0 +1,40 @@
+{
+  "voucher_title": "Depósitos Realizados",
+  "voucher_add_new": "Nuevo Depósito",
+
+  "voucher_table_status": "Estado",
+  "voucher_table_transaction_number": "Número de Transacción",
+  "voucher_table_created_at": "Fecha de Creación",
+  "voucher_table_amount": "Monto",
+  "voucher_table_currency": "Tipo de Moneda",
+
+  "voucher_form_title": "Subir Comprobante",
+  "voucher_form_subtitle": "Una vez que hayas realizado la transferencia o depósito para tu nueva contribución, deberás subir el comprobante correspondiente. Tras la verificación y confirmación, se te notificará.",
+  "voucher_form_hint": "Nota: Asegúrate de que el comprobante o extracto sea legible, especialmente el número de transacción.",
+
+  "voucher_form_currency_label": "Moneda",
+  "voucher_form_currency_placeholder": "Selecciona la moneda",
+
+  "voucher_form_amount_label": "Monto",
+  "voucher_form_amount_placeholder": "Ingresa el valor del monto depositado",
+
+  "voucher_form_transaction_label": "Número de Transacción",
+  "voucher_form_transaction_placeholder": "Ingresa el número de transacción",
+
+  "voucher_form_upload_button": "Subir Comprobante",
+
+  "voucher_solicitud_titulo": "Depósito (Solicitudes)",
+
+  "voucher_solicitud_tabla_estado": "Estado",
+  "voucher_solicitud_tabla_recibo": "Recibo",
+  "voucher_solicitud_tabla_persona": "Persona",
+  "voucher_solicitud_tabla_numero_transaccion": "Número de Transacción",
+  "voucher_solicitud_tabla_monto": "Monto",
+  "voucher_solicitud_tabla_tipo_moneda": "Tipo de Moneda",
+  "voucher_solicitud_tabla_fecha_creacion": "Fecha de Creación",
+
+  "voucher_solicitud_form_titulo": "Voucher de {{nombre}}",
+  "voucher_solicitud_form_subtitulo": "Compruebe sus extractos de la cuenta del banco para verificar si el número de transacción y el monto que indica el depósito coinciden.",
+  "voucher_solicitud_form_submit_aceptar": "Aceptar Voucher",
+  "voucher_solicitud_form_submit_rechazar": "Rechazar Voucher"
+}

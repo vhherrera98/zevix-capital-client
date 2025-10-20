@@ -1,0 +1,18 @@
+{
+ "page_documents_personal": "Documentos (Personal)",
+ "form_document_up": "Subir",
+ "form_document_dni": "DNI/Licencia de Conducir",
+ "form_document_passport": "Pasaporte",
+ "form_documents_table_nombre": "Nombre de Documento",
+ "form_document_title": "Subir documentos",
+ "form_document_subtitle": "Al subir nuevos documentos su cuenta pasará a estado de revisión hasta que este en alta nuevamente para que siga interactuando con ella.",
+ "form_document_hint": "Una vez subido los archivos, nuestro personal verificará si todo esta correcto y no falta documento alguno, caso contrario se le hará conocer con una notificació y/o correo electrónico.",
+ "form_document_upload_button": "Subir Documento",
+ "form_document_download": "Descargar Documento Ya Subido",
+ "form_document_input": "Arrastra y suelta tu archivo o haz clic para seleccionarlo",
+ "form_document_button": "Subir Documento",
+ "En Revisión": "En Revisión",
+ "Aprobado": "Aprobado",
+ "Pendiente": "Pendiente",
+ "Rechazado": "Rechazado"
+}

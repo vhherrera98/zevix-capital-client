@@ -1,0 +1,92 @@
+[
+  {
+    "nombre": "Nigeria",
+    "nombre_orig": "Nigeria",
+    "prefijo": "+234",
+    "codigo_pais": ".ng",
+    "area": 923768,
+    "poblacion": 223804632,
+    "doc_fiscal": "TIN"
+  },
+  {
+    "nombre": "Egipto",
+    "nombre_orig": "Egypt",
+    "prefijo": "+20",
+    "codigo_pais": ".eg",
+    "area": 1002450,
+    "poblacion": 110990103,
+    "doc_fiscal": "TIN"
+  },
+  {
+    "nombre": "Sudáfrica",
+    "nombre_orig": "South Africa",
+    "prefijo": "+27",
+    "codigo_pais": ".za",
+    "area": 1221037,
+    "poblacion": 60041996,
+    "doc_fiscal": "TIN"
+  },
+  {
+    "nombre": "Kenia",
+    "nombre_orig": "Kenya",
+    "prefijo": "+254",
+    "codigo_pais": ".ke",
+    "area": 580367,
+    "poblacion": 54700000,
+    "doc_fiscal": "PIN"
+  },
+  {
+    "nombre": "Argelia",
+    "nombre_orig": "Algeria",
+    "prefijo": "+213",
+    "codigo_pais": ".dz",
+    "area": 2381741,
+    "poblacion": 44700000,
+    "doc_fiscal": "NIF"
+  },
+  {
+    "nombre": "Marruecos",
+    "nombre_orig": "Morocco",
+    "prefijo": "+212",
+    "codigo_pais": ".ma",
+    "area": 446550,
+    "poblacion": 36900000,
+    "doc_fiscal": "IF"
+  },
+  {
+    "nombre": "Ghana",
+    "nombre_orig": "Ghana",
+    "prefijo": "+233",
+    "codigo_pais": ".gh",
+    "area": 238533,
+    "poblacion": 32000000,
+    "doc_fiscal": "TIN"
+  },
+  {
+    "nombre": "Etiopía",
+    "nombre_orig": "Ethiopia",
+    "prefijo": "+251",
+    "codigo_pais": ".et",
+    "area": 1104300,
+    "poblacion": 123000000,
+    "doc_fiscal": "TIN"
+  },
+  {
+    "nombre": "Tanzania",
+    "nombre_orig": "Tanzania",
+    "prefijo": "+255",
+    "codigo_pais": ".tz",
+    "area": 945087,
+    "poblacion": 59734218,
+    "doc_fiscal": "TIN"
+  },
+  {
+    "nombre": "Uganda",
+    "nombre_orig": "Uganda",
+    "prefijo": "+256",
+    "codigo_pais": ".ug",
+    "area": 241038,
+    "poblacion": 45741000,
+    "doc_fiscal": "TIN"
+  }
+]

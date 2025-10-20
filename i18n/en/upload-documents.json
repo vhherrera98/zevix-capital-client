@@ -1,0 +1,10 @@
+{
+ "form_numero_identificacion_label": "Identification Number",
+ "form_numero_identificacion_placeholder": "Enter your identification number",
+ "form_fecha_emision_label": "Issue Date",
+ "form_fecha_expiracion_label": "Expiration Date",
+ "form_fecha": "dd/mm/yyyy",
+ "form_fecha_emision_mayor_actual": "The issue date cannot be later than today's date",
+ "form_fecha_expiracion_menor_emision": "The expiration date cannot be earlier than the issue date",
+ "form_upload_submit": "Add Document"
+}
