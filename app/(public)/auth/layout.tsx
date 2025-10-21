@@ -1,16 +1,19 @@
 import StoreProvider from "@/context/store.provider";
+import type { ReactNode } from "react";
+// TODO: Si o si debe esta el modal
+type LayoutProps = {
+ children: ReactNode;
+ // modal?: ReactNode;
+};
 
 export default function AuthStoreLayout({
  children,
- modal
-}: {
- children: React.ReactNode;
- modal: React.ReactNode;
-}) {
+ // modal
+}: LayoutProps) {
  return (
   <StoreProvider>
    {children}
-   {modal}
+   {/* {modal} */}
   </StoreProvider>
- )
+ );
 }

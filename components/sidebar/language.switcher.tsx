@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 
 import { useRouter } from "next/navigation";
@@ -28,7 +27,7 @@ export default function LanguageSwitcher() {
   Cookies.set("lang", lang)
   router.refresh();
  }
- 
+
  useEffect(() => setMounted(true), []);
  if (!mounted) return <Skeleton className="h-8 w-full" />;
 

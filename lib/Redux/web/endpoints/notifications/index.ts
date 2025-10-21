@@ -2,7 +2,7 @@
 import { Notificacion, Notification } from "@/types/notification.type";
 import { mainApiSlice } from "../../api-slice";
 import { ApiResponse } from "@/types/api-response.type";
-import { notificationSchemaType } from "@/app/dashboard/notifications/notification.schema";
+import { notificationSchemaType } from "@/app/(partnert)/[continente]/dashboard/notifications/notification.schema";
 
 type ChangeStateType = {
   id: number;
@@ -30,7 +30,7 @@ export const notificationsEndpoints = mainApiSlice.injectEndpoints({
         url: "/notifications",
         method: "POST",
         body: data,
-      
+
       }),
       invalidatesTags: ["notifications"]
     }),

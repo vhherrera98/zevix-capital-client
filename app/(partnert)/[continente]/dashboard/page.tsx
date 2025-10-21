@@ -3,7 +3,7 @@ import { redirect } from 'next/navigation';
 export default async function page({
   params
 }: {
-  params: { continente: string }
+  params: Promise<{ continente: string }>
 }) {
 
   const { continente } = await params;

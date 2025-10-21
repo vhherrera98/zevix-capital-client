@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { ApiResponse } from "@/types/api-response.type";
 import { mainApiSlice } from "../../api-slice";
 

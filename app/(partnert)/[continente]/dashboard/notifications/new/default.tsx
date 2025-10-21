@@ -1,1 +1,1 @@
-export { default } from "@/app/dashboard/@modal/notifications/new/page";
+export { default } from "@/app/@modal/[continente]/dashboard/notifications/new/page";

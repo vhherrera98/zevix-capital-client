@@ -2,12 +2,12 @@
 
 import { Card, CardAction, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { useI18n } from "@/hooks/use-i18n";
-import { AllPeronsalWallet, PersonalWallet } from "../../app/(partnert)/[continente]/dashboard/home/_types";
 import { useDateMemo } from "@/hooks/use-moment";
 import { useCurrencyMemo } from "@/hooks/use-currency";
 import { Button } from "@/components/ui/button";
 import { useEffect, useState } from "react";
 import { Skeleton } from "@/components/ui/skeleton";
+import { AllPeronsalWallet, PersonalWallet } from "@/types/wallet.type";
 
 export function RecentIncomesTable({
  incomes

@@ -8,12 +8,12 @@ import { cookies } from 'next/headers'
 import React from 'react'
 import { LayoutContinente } from './_header'
 
-export default async function layout ({
+export default async function layout({
   children,
   params
 }: {
   children: React.ReactNode
-  params: { continente: string }
+  params: Promise<{ continente: string }>
 }) {
   const cookieStore = await cookies()
   const defaultOpen = cookieStore.get('sidebar_state')?.value === 'true'
