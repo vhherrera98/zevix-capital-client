@@ -9,5 +9,6 @@
         "next",
         "react",
         "redux"
-    ]
+    ],
+    "css.lint.unknownAtRules": "ignore"
 }
