@@ -88,7 +88,7 @@ function ModalView({ documento }: { documento: Documento }) {
 
   const [changeState, { isLoading }] = useChangeStateDocumentMutation();
   const { data } = useSession();
-  
+
   const disabled = useMemo(() => {
     if (!data || !documento) return false;
 
