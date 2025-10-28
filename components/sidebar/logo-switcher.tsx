@@ -6,11 +6,11 @@ import Image from 'next/image'
 import Logo from '@/public/images/ico.png'
 import LogoDark from '@/public/images/icon-dark.png'
 
-export function LogoSwitcher ({ continente }: { continente?: string }) {
+export function LogoSwitcher({ continente }: { continente?: string }) {
   return (
     <SidebarMenuButton
       size={'lg'}
-      className='flex items-center justify-center data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground'
+      className='flex items-center justify-center data-[state=open]:bg-sidebar-accent data-[state=open]:text-sidebar-accent-foreground w-fit'
     >
       <Link
         href={continente ? '/' + continente + '/dashboard' : '/dashboard'}

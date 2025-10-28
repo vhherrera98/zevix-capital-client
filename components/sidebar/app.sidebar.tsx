@@ -4,6 +4,7 @@ import React from 'react'
 import {
   Sidebar,
   SidebarContent,
+  SidebarCustom,
   SidebarFooter,
   SidebarHeader,
   SidebarRail,
@@ -11,7 +12,7 @@ import {
 } from '../ui/sidebar'
 import LanguageSwitcher from './language.switcher'
 import { DarkmodeSwitcher } from './darkmode-switcher'
-import { LogoSwitcher } from './logo-switcher'
+// import { LogoSwitcher } from './logo-switcher'
 import { UserSwitcher } from './user-switcher'
 import { NavMain } from './nav-main'
 import { Logout } from '../buttons/logout-button'
@@ -23,38 +24,39 @@ type Props = {
   continente?: string
 } & React.ComponentProps<typeof Sidebar>
 
-export function AppSidebar ({ continente, ...props }: Props) {
+export function AppSidebar({ continente, ...props }: Props) {
   // useAutoRefreshOnInactivity();
 
   return (
-    <Sidebar
+    <SidebarCustom
       className='border-r-0 overflow-hidden'
       collapsible='icon'
       variant='floating'
       {...props}
     >
       <SidebarHeader className='overflow-hidden rounded-tl-md rounded-tr-md'>
-        <LogoSwitcher continente={continente} />
+        {/* <LogoSwitcher continente={continente} /> */}
         <UserSwitcher continente={continente} />
       </SidebarHeader>
 
-      <SidebarSeparator className='-translate-x-2' />
+      {/* <SidebarSeparator className='-translate-x-2' /> */}
 
-      <SidebarContent className='bg-gray-200 dark:bg-background'>
+      {/* <SidebarContent className='bg-gray-200 dark:bg-background'> */}
+      <SidebarContent >
         <NavMain continente={continente} />
       </SidebarContent>
 
-      <SidebarSeparator className='-translate-x-2' />
+      {/* <SidebarSeparator className='-translate-x-2' /> */}
 
-      <SidebarFooter className=''>
+      <SidebarFooter className='bg-background rounded-xl'>
         <LanguageSwitcher />
         <DarkmodeSwitcher />
         {continente && <HomeButton />}
-        <SidebarSeparator className='-translate-x-2' />
+        <SidebarSeparator className='-translate-x-2 mb-2' />
         <Logout />
       </SidebarFooter>
 
       <SidebarRail />
-    </Sidebar>
+    </SidebarCustom>
   )
 }

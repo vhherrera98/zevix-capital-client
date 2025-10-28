@@ -1,41 +1,37 @@
-"use client"
+"use client";
 
-import * as React from "react"
-import { Moon, Sun } from "lucide-react"
-import { useTheme } from "next-themes"
-import Cookies from "js-cookie";
-import { Button } from "@/components/ui/button"
-import {
- DropdownMenu,
- DropdownMenuContent,
- DropdownMenuItem,
- DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"
+import { DynamicIcon } from "lucide-react/dynamic";
+import { useTheme } from "next-themes";
+import { Button } from "@/components/ui/button";
+import { useEffect, useState } from "react";
 
 export function ModeToggle() {
- const { setTheme } = useTheme();
- const currentLang = Cookies.get('lang');
+ const { setTheme, theme } = useTheme();
+ const [mounted, setMounted] = useState(false);
+
+ useEffect(() => {
+  setMounted(true);
+ }, []);
+
+ if (!mounted) {
+  // Render algo neutro mientras carga (por ejemplo, un placeholder redondo)
+  return (
+   <Button size="icon" variant="outline">
+    <div className="h-4 w-4 rounded-full animate-pulse bg-muted" />
+   </Button>
+  );
+ }
+
+ const isLight = theme === "light";
+ const icon = isLight ? "sun" : "moon";
 
  return (
-  <DropdownMenu>
-   <DropdownMenuTrigger asChild>
-    <Button variant="outline" size="icon">
-     <Sun className="h-[1.2rem] w-[1.2rem] scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
-     <Moon className="absolute h-[1.2rem] w-[1.2rem] scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
-     <span className="sr-only">Toggle theme</span>
-    </Button>
-   </DropdownMenuTrigger>
-   <DropdownMenuContent align="end">
-    <DropdownMenuItem onClick={() => setTheme("light")}>
-     {currentLang === 'es' ? 'Claro' : 'Light'}
-    </DropdownMenuItem>
-    <DropdownMenuItem onClick={() => setTheme("dark")}>
-     {currentLang === 'es' ? 'Oscuro' : 'Dark'}
-    </DropdownMenuItem>
-    <DropdownMenuItem onClick={() => setTheme("system")}>
-     {currentLang === 'es' ? 'Sistema' : 'System'}
-    </DropdownMenuItem>
-   </DropdownMenuContent>
-  </DropdownMenu>
- )
+  <Button
+   size="icon"
+   variant="outline"
+   onClick={() => setTheme(isLight ? "dark" : "light")}
+  >
+   <DynamicIcon name={icon} />
+  </Button>
+ );
 }

@@ -9,11 +9,11 @@ export function PageLoader({
 }) {
  return (
   <div className={cn(
-   "w-full h-full flex items-center justify-center",
+   "w-full h-full flex flex-row items-center justify-center my-auto",
    className
   )}>
 
-   <div className="flex flex-col items-center gap-3">
+   <div className="flex flex-col items-center gap-3 my-auto">
     <div className="bg-indigo-600 p-3 rounded-md">
      <div role="status">
       <svg aria-hidden="true" className="w-8 h-8 text-indigo-600 animate-spin dark:text-indigo-600 fill-white" viewBox="0 0 100 101" fill="none" xmlns="http://www.w3.org/2000/svg">

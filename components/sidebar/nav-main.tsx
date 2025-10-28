@@ -39,10 +39,10 @@ export function NavMain({
  if (status === 'loading') {
   return (
    <div className="grid grid-cols-1 gap-4 animate-pulse p-5">
-    <div className="w-[100px] h-[20px] bg-gray-400 dark:bg-accent rounded-md"></div>
+    <div className="w-[100px] h-[20px] bg-gray-400 dark:bg-background rounded-md"></div>
     {
      Array.from({ length: 10 }).map((_, idx) => (
-      <div key={idx} className="w-full h-[40px] bg-gray-400 dark:bg-accent rounded-md"></div>
+      <div key={idx} className="w-full h-[40px] bg-gray-400 dark:bg-background rounded-md"></div>
      ))
     }
    </div>
