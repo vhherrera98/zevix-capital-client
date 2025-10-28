@@ -1,6 +1,7 @@
 import { NextAuthRequest } from "next-auth";
 import { NextResponse } from "next/server";
 
+// TODO: Inservible
 export async function CookiePersonId(response: NextResponse<unknown>, req: NextAuthRequest) {
   if (!req.cookies.get("personaId")) {
     try {
