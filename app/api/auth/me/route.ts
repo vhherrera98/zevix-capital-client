@@ -3,6 +3,7 @@ import { NextResponse } from "next/server";
 import { auth } from "@/auth";
 import { conn } from "@/database";
 
+// TODO: Inservible
 export async function GET() {
   try {
     const session = await auth();
