@@ -48,8 +48,8 @@ export const mainApiSlice = createApi({
       } else {
         headers.set("x-user-lang", "en");
       }
-
       const personaId = Cookies.get('x-user-id');
+
       if (personaId) {
         headers.set("x-user-id", personaId)
       };
