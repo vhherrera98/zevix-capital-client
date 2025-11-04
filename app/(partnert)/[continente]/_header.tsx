@@ -1,9 +1,9 @@
 "use client";
 
-import { Notifications } from "@/components/dropdowns/notifications.dropdown";
+// import { Notifications } from "@/components/dropdowns/notifications.dropdown";
 import { PageLoader } from "@/components/loaders/page-loader";
 import { LogoSwitcher } from "@/components/sidebar/logo-switcher";
-import { SidebarTrigger } from "@/components/ui/sidebar";
+// import { SidebarTrigger } from "@/components/ui/sidebar";
 import { useFindOneContinentByCodeQuery } from "@/lib/Redux/web/endpoints/locations/continentes";
 import { redirect } from "next/navigation";
 
